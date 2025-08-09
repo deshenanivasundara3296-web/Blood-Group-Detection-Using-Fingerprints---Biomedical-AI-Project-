@@ -1,0 +1,2 @@
+# Blood-Group-Detection-Using-Fingerprints---Biomedical-AI-Project-
+Developed a machine learning model to predict blood groups based on fingerprint patterns.  Collected, preprocessed, and analyzed fingerprint images for accurate classification.  Implemented feature extraction techniques to improve prediction accuracy.  Applied image processing and supervised learning algorithms to build a reliable prototype system.
